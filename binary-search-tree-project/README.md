@@ -7,3 +7,13 @@
 ## Çözüm - Proje 3
 
 Root 7'dir. Solunda 5, sağında ise 8 bulunur.
+
+           7
+         /   \
+        5     8
+       / \      \
+      1   3      9
+     /   / \
+    0   4   6
+       /
+      2 
